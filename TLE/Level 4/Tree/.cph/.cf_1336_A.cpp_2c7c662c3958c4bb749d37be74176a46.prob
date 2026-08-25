@@ -1,0 +1,1 @@
+{"name":"Local: cf_1336_A","url":"c:\\Users\\sumit\\Akash\\TLE\\Level 4\\Tree\\cf_1336_A.cpp","tests":[{"id":1780829203789,"input":"7 4\n1 2\n1 3\n1 4\n3 5\n3 6\n4 7\n","output":"7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\sumit\\Akash\\TLE\\Level 4\\Tree\\cf_1336_A.cpp","group":"local","local":true}

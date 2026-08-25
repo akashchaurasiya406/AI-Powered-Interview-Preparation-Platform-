@@ -1,0 +1,1 @@
+{"name":"Local: T2_BL","url":"c:\\Users\\sumit\\Akash\\TLE\\Level 4\\Tree\\T2_BL.cpp","tests":[{"id":1780819979832,"input":"7\n1 2 \n1 3 \n1 4\n3 5\n3 6\n5 7\n2 \n7 6\n6 4\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\sumit\\Akash\\TLE\\Level 4\\Tree\\T2_BL.cpp","group":"local","local":true}

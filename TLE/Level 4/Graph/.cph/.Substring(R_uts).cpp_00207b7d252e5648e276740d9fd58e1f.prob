@@ -1,0 +1,1 @@
+{"name":"Local: Substring(R_uts)","url":"c:\\Users\\sumit\\Akash\\TLE\\Level 4\\Graph\\Substring(R_uts).cpp","tests":[{"id":1785844215171,"input":"5 4\nabaca\n1 2\n1 3\n3 4\n4 5\n","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\sumit\\Akash\\TLE\\Level 4\\Graph\\Substring(R_uts).cpp","group":"local","local":true}
