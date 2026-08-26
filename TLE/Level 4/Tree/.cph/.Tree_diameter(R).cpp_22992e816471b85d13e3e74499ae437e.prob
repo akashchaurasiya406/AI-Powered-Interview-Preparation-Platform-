@@ -1,1 +1,0 @@
-{"name":"Local: Tree_diameter(R)","url":"c:\\Users\\sumit\\Akash\\TLE\\Level 4\\Tree\\Tree_diameter(R).cpp","tests":[{"id":1780897576972,"input":"5\n1 2\n1 3\n3 4\n3 5","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\sumit\\Akash\\TLE\\Level 4\\Tree\\Tree_diameter(R).cpp","group":"local","local":true}
